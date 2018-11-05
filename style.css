@@ -14,7 +14,7 @@
     
 
 
-background: url("assets/roughedgesvg.png");
+background-image: url("assets/roughedgesvg.png");
 	background-size: cover, cover;
 	background-position: center, center;
 	height: 100vh;
@@ -24,7 +24,7 @@ background: url("assets/roughedgesvg.png");
 }
 
 .container2 {
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.66) 100%, transparent), url("assets/pinkbluepurplewatercolor.png");
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.66) 100%, transparent), url("assets/pinkbluepurplewatercolor.png");
         background-size: cover, cover;
         background-position: center, center;
         height: 100vh;
@@ -35,7 +35,7 @@ background: url("assets/roughedgesvg.png");
 
 
 .container3 {
-        background: url("assets/bluecurve.png");
+        background-image: url("assets/bluecurve.png");
         background-size: cover, cover;
         background-position: center, center;
         height: 75vh;
