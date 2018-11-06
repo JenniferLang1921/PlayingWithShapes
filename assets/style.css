@@ -1,12 +1,10 @@
-body {
-    background: blue;
-}
+
 
 .container {
     
 
 
-background-image: url("images/roughedgesvg.png");
+background: url("images/roughedgesvg.png");
 	background-size: cover, cover;
 	background-position: center, center;
 	height: 100vh;
